@@ -1,0 +1,19 @@
+FILE_NAME   =0
+FILE_ADRS   =1
+FEED        =2
+SAMPLING_RATE =3
+DEP_S       =4
+DEP_V       =5
+SAMPLE_SPACE_XF = 6
+
+#contact
+CALIB_CONST = 5
+SAMPLE_LEN  = 7
+
+
+
+SPINDLE = 0 
+CUT_FEED    = 1
+PATH_COUNT  = 2
+PACH_XF = 3
+DEPTH_CUT = 4
